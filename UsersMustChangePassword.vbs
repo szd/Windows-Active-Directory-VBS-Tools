@@ -73,10 +73,6 @@ Else
 						objuser.setinfo
                      
                  End If
-             
-         'Else
-		'	Wscript.Echo "Le fichier ne contient pas 8 colonnes"
-		 'End If
      End If
  Loop
  
